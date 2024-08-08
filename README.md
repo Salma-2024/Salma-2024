@@ -23,6 +23,6 @@
 
 *Contacto*
 
-- [Tu correo electrónico o enlace a tu perfil de LinkedIn]
+- https://www.linkedin.com/in/salma-de-la-torre-b93231322?trk=contact-info
 
 ¡Gracias por visitar mi perfil! Estoy emocionada de conectarme con otros desarrolladores y aprender de sus experiencias.
